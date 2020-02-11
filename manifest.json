@@ -8,8 +8,8 @@
       "type": "image/x-icon"
     }
   ],
-  "start_url": "/sgaremodelingcorp",
+  "start_url": "/sgaremodelingcorp/",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#04d6c8",
   "background_color": "#ffffff"
 }
